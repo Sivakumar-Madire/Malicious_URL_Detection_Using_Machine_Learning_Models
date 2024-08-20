@@ -1219,9 +1219,9 @@ result_df=results.sort_values(by='Accuracy Score', ascending=False)
 result_df=result_df.set_index('Model')
 result_df
 
-pip install python-whois
+!pip install python-whois
 
-pip install python-googlesearch
+!pip install python-googlesearch
 
 import ipaddress
 import re
