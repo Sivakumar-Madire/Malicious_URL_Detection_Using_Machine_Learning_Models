@@ -8,3 +8,17 @@ To run the web application download the RAR File and Extract the files to new fo
 suggested TOOL : VSCODE.
 Download the neccesary packages.
 
+
+MALICIOUS_URL_CODE:
+The code in this file Consists a full length code to detect malicious URL using different Ml models.
+
+ML MODELS WE USED :
+1. Decision Tree variants or instances (Base Decision Tree, Tuned Decision Tree, Post-pruning Decision Tree)
+2. Ensembledecisiontreetechnique(TunedBaggedDecisionTree, Bagged Decision Tree)
+3. Logistic Regression
+4. Multinomial Naive Bayes
+5. Isolation Forest
+6. Hierarchical Clustering
+7. Gaussian Mixture Models
+8. Principal component analysis
+9. Mean Shift
